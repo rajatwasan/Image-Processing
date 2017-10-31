@@ -56,7 +56,4 @@ Look for the output files in the output/ subdirectory.
 6. Edit writeup.html (if you want to add anything extra) to add a description of, and links to, the images
 you just created.  Open writeup.html in a web browser to see the webpage.
 
-7. Create a .zip file containing the contents of this directory.
-
-8. Submit it at the Dropbox link - https://www.dropbox.com/request/40ndMMef2wwavrZwgEfm
 
